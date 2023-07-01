@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  background: #0e0e0e;
+  color: rgb(208, 198, 198);
+  height: 100vh;
+}
+#app {
+  width: 100vw;
+  height: 100vh;
+}
+#module {
+  height: 100%;
+}
+.el-aside {
+  background: rgb(255, 255, 255);
+}
+.el-header {
+  background: whitesmoke;
+}
+.el-main {
+  background: rgb(45, 49, 59);
+  color: white;
+}
+.el-container {
+  height: 100% !important;
+}
+.common-layout {
+  height: 100%;
+}
+.index-content {
+  display: flex;
+}
+.content {
+  background: rgb(66, 54, 73);
+  margin: 5px;
+}
